@@ -1,4 +1,4 @@
-# ler 4 números. exibir a quantidade de valores "par"
+# ler 4 números. exibir a quantidade de valores "positivo (acima de zero)"
 
 qtde = 0
 for i in range(4):
